@@ -8,7 +8,7 @@ See paper:
 
 ### Download
 ```bash
-git clone https://github.com/Colin-CompChem/CalcAMP.git
+git clone https://github.com/CDDLeiden/CalcAMP.git
 ```
 
 
